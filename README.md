@@ -5,6 +5,6 @@ You will need to install the snekfetch dependency for the command to work proper
 ```
 npm install snekfetch
 ```
+Clearly you must call the module within the code.
 
-Clearly you must call the module within the code
-Leczy#0084
+Ds: Leczy#0084
